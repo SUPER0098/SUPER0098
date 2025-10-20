@@ -39,11 +39,4 @@ AI Engineering Student | Python | C++ | Computer Science
 Telegram: @SUPER00987
 GitHub: SUPER0098
 
----
 
-"От алгоритмов к искусственному интеллекту"
-Open to collaborations and internship opportunities
----
-
-"От алгоритмов к искусственному интеллекту"
-Open to collaborations and internship opportunities
